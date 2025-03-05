@@ -4,12 +4,18 @@ using UnityEngine;
 
 public class GunCharacter : Character
 {
+    
+    public override void Upgrade()
+    {
+        
+    }
+
     // Start is called before the first frame update
     void Start()
     {
-        data.Power = 1;
-        data.AttackSpeed = 1;
-        data.AttackRange = 5;
+        data.Power = 10;
+        data.AttackSpeed = 0.2f;
+        data.AttackRange = 8;
         data.Cost = 1;
         data.Level = 1;
 

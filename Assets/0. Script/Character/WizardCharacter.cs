@@ -4,6 +4,11 @@ using UnityEngine;
 
 public class WizardCharacter : Character
 {
+    public override void Upgrade()
+    {
+        throw new System.NotImplementedException();
+    }
+
     // Start is called before the first frame update
     void Start()
     {

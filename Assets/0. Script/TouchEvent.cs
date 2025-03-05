@@ -15,23 +15,23 @@ public class TouchEvent : Singleton<TouchEvent>
         Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
         RaycastHit hit;
 
-        if (isSelecting)
+        if (isSelecting) // UI On Off 여부로 판단하는 것도 가능 : selectCharacter.activeInHierarchy == true
             return;
 
-        if(Physics.Raycast(ray, out hit))
+        if (Physics.Raycast(ray, out hit))
         {
             if (hit.collider.tag.Equals("Pad"))
             {
                 if (Input.GetMouseButtonDown(0))
                 {
+                    UI.Instance.SpawnParent = hit.transform;
+
                     // 캐릭터 생성
                     if (hit.transform.childCount == 0)
                     {
                         selectCharacter.transform.position = Camera.main.WorldToScreenPoint(
                             hit.transform.position + new Vector3(0, 1f, 0));
                         selectCharacter.SetActive(true);
-
-                        UI.Instance.SpawnParent = hit.transform;
                     }
 
                     // 캐릭터 업그레이드 

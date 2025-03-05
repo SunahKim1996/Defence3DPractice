@@ -24,7 +24,7 @@ public class Monster : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        hp = maxHp = 30;
+        hp = maxHp = 20;
     }
     
     // Update is called once per frame
@@ -47,10 +47,14 @@ public class Monster : MonoBehaviour
         if (distance <= 0)
         {
             pointIdx++;
-            SetDirecion(flags[pointIdx].dir);
 
             if (pointIdx >= flags.Count)
+            {
+                UI.Instance.Life--;
                 DestroyMonster();
+            }                
+            else
+                SetDirecion(flags[pointIdx].dir);
         }
     }
 

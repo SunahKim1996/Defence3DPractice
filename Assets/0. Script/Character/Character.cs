@@ -58,11 +58,18 @@ public abstract class Character : MonoBehaviour
                         monsterList.Add(collider.GetComponent<Monster>());
 
                         attackTimer = 0;
-                        animator.SetTrigger("attack");
+                        AttackAnimation();
                     }
                 }
             }                
         }
+
+        if (collider == null)
+        {
+            IdleAnimation();
+            return;
+        }
+
 
         //해당 몬스터 바라보기
         if (monsterList.Count > 0)
@@ -85,10 +92,22 @@ public abstract class Character : MonoBehaviour
         Gizmos.DrawWireSphere(transform.position, data.AttackRange);
     }
 
+    #region Animation 
     public void IdleAnimation()
     {
         animator.SetTrigger("idle");
     }
+
+    public void AttackAnimation()
+    {
+        animator.SetTrigger("attack");
+    }
+
+    public void ReloadAnimation()
+    {
+        animator.SetTrigger("reload");
+    }
+    #endregion
 
     /// <summary>
     /// 애니메이션의 이벤트로 함수가 호출됨 
@@ -99,10 +118,12 @@ public abstract class Character : MonoBehaviour
         {
             foreach (var monster in monsterList)
             {
-                monster.Damage(10);
+                monster.Damage(data.Power);
             }            
         }
 
         monsterList.Clear();
     }
+
+    public abstract void Upgrade();
 }
