@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC4F8CB-5600-67DD-EFF3-0F21A45CCBC9}|Assembly-CSharp.csproj|c:\\users\\sunah\\._unityproject\\defence3dpractice\\assets\\0. script\\character\\guncharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC4F8CB-5600-67DD-EFF3-0F21A45CCBC9}|Assembly-CSharp.csproj|solutionrelative:assets\\0. script\\character\\guncharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC4F8CB-5600-67DD-EFF3-0F21A45CCBC9}|Assembly-CSharp.csproj|c:\\users\\sunah\\._unityproject\\defence3dpractice\\assets\\0. script\\character\\wizardcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC4F8CB-5600-67DD-EFF3-0F21A45CCBC9}|Assembly-CSharp.csproj|solutionrelative:assets\\0. script\\character\\wizardcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC4F8CB-5600-67DD-EFF3-0F21A45CCBC9}|Assembly-CSharp.csproj|c:\\users\\sunah\\._unityproject\\defence3dpractice\\assets\\0. script\\character\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC4F8CB-5600-67DD-EFF3-0F21A45CCBC9}|Assembly-CSharp.csproj|solutionrelative:assets\\0. script\\character\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC4F8CB-5600-67DD-EFF3-0F21A45CCBC9}|Assembly-CSharp.csproj|C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\assets\\0. script\\character\\golemcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC4F8CB-5600-67DD-EFF3-0F21A45CCBC9}|Assembly-CSharp.csproj|solutionrelative:assets\\0. script\\character\\golemcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC4F8CB-5600-67DD-EFF3-0F21A45CCBC9}|Assembly-CSharp.csproj|C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\assets\\0. script\\character\\warrirorcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC4F8CB-5600-67DD-EFF3-0F21A45CCBC9}|Assembly-CSharp.csproj|solutionrelative:assets\\0. script\\character\\warrirorcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC4F8CB-5600-67DD-EFF3-0F21A45CCBC9}|Assembly-CSharp.csproj|C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\assets\\0. script\\touchevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC4F8CB-5600-67DD-EFF3-0F21A45CCBC9}|Assembly-CSharp.csproj|solutionrelative:assets\\0. script\\touchevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC4F8CB-5600-67DD-EFF3-0F21A45CCBC9}|Assembly-CSharp.csproj|C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\assets\\0. script\\monsterhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC4F8CB-5600-67DD-EFF3-0F21A45CCBC9}|Assembly-CSharp.csproj|solutionrelative:assets\\0. script\\monsterhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC4F8CB-5600-67DD-EFF3-0F21A45CCBC9}|Assembly-CSharp.csproj|C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\assets\\0. script\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC4F8CB-5600-67DD-EFF3-0F21A45CCBC9}|Assembly-CSharp.csproj|solutionrelative:assets\\0. script\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC4F8CB-5600-67DD-EFF3-0F21A45CCBC9}|Assembly-CSharp.csproj|C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\assets\\0. script\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC4F8CB-5600-67DD-EFF3-0F21A45CCBC9}|Assembly-CSharp.csproj|solutionrelative:assets\\0. script\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\Character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\0. Script\\Character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\Character\\ArcherCharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\0. Script\\Character\\ArcherCharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GunCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\Character\\GunCharacter.cs",
+              "RelativeDocumentMoniker": "Assets\\0. Script\\Character\\GunCharacter.cs",
+              "ToolTip": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\Character\\GunCharacter.cs",
+              "RelativeToolTip": "Assets\\0. Script\\Character\\GunCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:49:51.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WizardCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\Character\\WizardCharacter.cs",
+              "RelativeDocumentMoniker": "Assets\\0. Script\\Character\\WizardCharacter.cs",
+              "ToolTip": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\Character\\WizardCharacter.cs",
+              "RelativeToolTip": "Assets\\0. Script\\Character\\WizardCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:13:29.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GolemCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\Character\\GolemCharacter.cs",
+              "RelativeDocumentMoniker": "Assets\\0. Script\\Character\\GolemCharacter.cs",
+              "ToolTip": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\Character\\GolemCharacter.cs",
+              "RelativeToolTip": "Assets\\0. Script\\Character\\GolemCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:12:41.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WarrirorCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\Character\\WarrirorCharacter.cs",
+              "RelativeDocumentMoniker": "Assets\\0. Script\\Character\\WarrirorCharacter.cs",
+              "ToolTip": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\Character\\WarrirorCharacter.cs",
+              "RelativeToolTip": "Assets\\0. Script\\Character\\WarrirorCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T07:36:51.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArcherCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\Character\\ArcherCharacter.cs",
+              "RelativeDocumentMoniker": "Assets\\0. Script\\Character\\ArcherCharacter.cs",
+              "ToolTip": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\Character\\ArcherCharacter.cs",
+              "RelativeToolTip": "Assets\\0. Script\\Character\\ArcherCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T07:36:32.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\0. Script\\Character.cs",
+              "ToolTip": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\Character.cs",
+              "RelativeToolTip": "Assets\\0. Script\\Character.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T07:00:27.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MonsterHP.cs",
+              "DocumentMoniker": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\MonsterHP.cs",
+              "RelativeDocumentMoniker": "Assets\\0. Script\\MonsterHP.cs",
+              "ToolTip": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\MonsterHP.cs",
+              "RelativeToolTip": "Assets\\0. Script\\MonsterHP.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T07:04:54.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TouchEvent.cs",
+              "DocumentMoniker": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\TouchEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\0. Script\\TouchEvent.cs",
+              "ToolTip": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\TouchEvent.cs",
+              "RelativeToolTip": "Assets\\0. Script\\TouchEvent.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwDQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:44:32.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\UI.cs",
+              "RelativeDocumentMoniker": "Assets\\0. Script\\UI.cs",
+              "ToolTip": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\UI.cs",
+              "RelativeToolTip": "Assets\\0. Script\\UI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:44:24.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\Monster.cs",
+              "RelativeDocumentMoniker": "Assets\\0. Script\\Monster.cs",
+              "ToolTip": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\Monster.cs",
+              "RelativeToolTip": "Assets\\0. Script\\Monster.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAWwFIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:36:44.67Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\Character\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\0. Script\\Character\\Character.cs",
+              "ToolTip": "C:\\Users\\sunah\\._UnityProject\\Defence3DPractice\\Assets\\0. Script\\Character\\Character.cs",
+              "RelativeToolTip": "Assets\\0. Script\\Character\\Character.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwBsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T07:36:37.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

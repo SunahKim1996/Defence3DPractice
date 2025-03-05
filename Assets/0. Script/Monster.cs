@@ -77,7 +77,14 @@ public class Monster : MonoBehaviour
 
     void DestroyMonster()
     {
-        Destroy(HpUI.gameObject);
-        Destroy(gameObject);
+        try
+        {
+            Destroy(HpUI.gameObject);
+            Destroy(gameObject);                
+        }
+        catch (MissingReferenceException e) 
+        { 
+        
+        }
     }
 }

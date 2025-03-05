@@ -34,6 +34,9 @@ public class MonsterHP : MonoBehaviour
 
     public void SetSize(int hp, int maxHp)
     {
+        if (hpImage == null)
+            return;
+
         float widthSize = ((float)hp / maxHp) * hpWidth;
         hpImage.rectTransform.sizeDelta = new Vector2(widthSize, hpHeight);
     }
